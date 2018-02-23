@@ -1,11 +1,9 @@
 # dolomite2d
 dolomite microcracks and grains segmentation<br/>
 
-INPUT  
-![alt tag](https://github.com/BoguslawObara/dolomite2d/blob/master/im/image1.png)
-
-OUTPUT  
-![alt tag](https://github.com/BoguslawObara/dolomite2d/blob/master/im/image_c.png)
+| INPUT  | OUTPUT |
+| ------------- | ------------- |
+| <img src="https://github.com/BoguslawObara/dolomite2d/blob/master/im/image1.png" width="250">  | <img src="https://github.com/BoguslawObara/dolomite2d/blob/master/im/image_c.png" width="250"> |
 
 If you find this code useful in your research and developement, please consider citing:
 
