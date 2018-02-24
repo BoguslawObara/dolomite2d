@@ -1,5 +1,5 @@
 # dolomite2d
-dolomite microcracks and grains segmentation<br/>
+2d dolomite microcracks and grains segmentation<br/>
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
